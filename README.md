@@ -1,5 +1,9 @@
 # Project Name: Painter Recognition
 
+<div align="center">
+  <img src="art_recognition.jpg" alt="Painting Classification">
+</div>
+
 ## Overview
 
 The goal of this project is to develop a model capable of recognizing paintings from three different painters: Caravaggio, Manet, and Van Gogh. The images may vary in style, pose, genre, and may include backgrounds, frames, or occlusions. The focus is on building a robust dataset, training a model that generalizes well, and iteratively improving the model through alternate training and validation processes.
