@@ -42,6 +42,21 @@ Submit a Google Colab Notebook containing:
    - **Function Independence:** The function should work independently of the batch size.
    - **Preprocessing and Postprocessing:** Perform all required preprocessing on the test data batch and postprocessing on the results before returning them.
 
+## Folder Organization
+
+- **UltimateDataSet2.0/**: Contains the comprehensive dataset used for training and validation.
+- **final_log/**: Logs and records of the training and validation processes.
+- **final_model/**: The final trained model ready for deployment.
+- **Highlights/**: Contains a series of images and descriptions depicting the model’s performance and particular cases of interest.
+- **Result/**: Contains the JSON file of the results obtained on extra validation sets.
+- **Test/**: Contains the JSON files of the results obtained on the primary validation sets, including performance metrics for different model versions.
+- **Project_report/**:
+  - **FinalPresentationMachineLearning.pptx**: Presentation summarizing the project and its results.
+  - **FinalProjectMachineLearning.pdf**: Final report detailing the project, methodologies, and outcomes.
+- **README.md**: This README file providing an overview of the project.
+- **test.ipynb**: Jupyter notebook for testing the model and making predictions.
+- **train.ipynb**: Jupyter notebook for training the model.
+
 ## Conclusion
 
 This README provides an overview of the Painter Recognition project, including dataset considerations, model training and validation strategies, and implementation details. Please refer to the accompanying Google Colab Notebook for the complete code and functionality.
