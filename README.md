@@ -1,4 +1,4 @@
-# Painter Recognition (Keras)
+# Painter Recognition (Keras/TensorFlow)
 
 <div align="center">
   <img src="art_recognition.jpeg" alt="Painting Classification">
