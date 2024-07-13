@@ -1,4 +1,4 @@
-# Project Name: Painter Recognition
+# Painter Recognition
 
 <div align="center">
   <img src="art_recognition.jpeg" alt="Painting Classification">
