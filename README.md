@@ -1,4 +1,4 @@
-# Painter Recognition
+# Painter Recognition (Keras)
 
 <div align="center">
   <img src="art_recognition.jpeg" alt="Painting Classification">
