@@ -48,14 +48,14 @@ Submit a Google Colab Notebook containing:
 
 ## Folder Organization
 
-- **UltimateDataSet2.0/**: Contains the comprehensive dataset used for training and validation.
-- **final_log/**: Logs and records of the training and validation processes.
-- **final_model/**: The final trained model ready for deployment.
-- **FinalPresentationMachineLearning.pptx**: Presentation summarizing the project and its results.
-- **FinalProjectMachineLearning.pdf**: Final report detailing the project, methodologies, and outcomes.
-- **README.md**: This README file providing an overview of the project.
-- **test.ipynb**: Jupyter notebook for testing the model and making predictions.
-- **train.ipynb**: Jupyter notebook for training the model.
+- `UltimateDataSet2.0/`: Contains the comprehensive dataset used for training and validation.
+- `final_log/`: Logs and records of the training and validation processes.
+- `final_model/`: The final trained model ready for deployment.
+- `FinalPresentationMachineLearning.pptx`: Presentation summarizing the project and its results.
+- `FinalProjectMachineLearning.pdf`: Final report detailing the project, methodologies, and outcomes.
+- `README.md`: This README file providing an overview of the project.
+- `test.ipynb`: Jupyter notebook for testing the model and making predictions.
+- `train.ipynb`: Jupyter notebook for training the model.
 
 ## Conclusion
 
