@@ -48,7 +48,6 @@ Submit a Google Colab Notebook containing:
 
 ## Folder Organization
 
-- `UltimateDataSet2.0/`: Contains the comprehensive dataset used for training and validation.
 - `final_log/`: Logs and records of the training and validation processes.
 - `final_model/`: The final trained model ready for deployment.
 - `FinalPresentationMachineLearning.pptx`: Presentation summarizing the project and its results.
